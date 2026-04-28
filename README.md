@@ -11,9 +11,11 @@ The dataset used in this paper can be downloaded at:
 
 The images you use should be placed in:
 ```bash
+#For Test
     Source_image_{dataset}/
                 ir/
                 vi/
+#For Train
     Train/
                 ir/
                 vi/
