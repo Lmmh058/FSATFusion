@@ -36,7 +36,7 @@ A few qualitative examples are shown below.
 ![Qualitative_Comparison](fig/Qualitative_TNO.jpg)
 
 ## Quantitative Results
-Quantitative comparison examples are shown below. The red line denotes our method.
+Quantitative comparison examples are shown below. The red line denotes our method. Except for Q<sub>cv</sub>, higher values of all other metrics indicate better performance.
 
 ![Quantitative Comparison](fig/Quantitative_TNO.jpg)
 
