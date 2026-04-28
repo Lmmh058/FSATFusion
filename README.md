@@ -41,7 +41,7 @@ Quantitative comparison examples are shown below. The red line denotes our metho
 ![Quantitative Comparison](fig/Quantitative_TNO.jpg)
 
 ## Training your own model
-Put your training data in the ```train_image``` folder, and run:
+Put your training data in the ```Train``` folder, and run:
 ```
 python Train.py
 ```
