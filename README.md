@@ -3,4 +3,4 @@
 
 **FSATFusion: Frequency-Spatial Attention Transformer for infrared and visible image fusion (CVIU 2026)**
 
-![Framework](fig/Network.eps)
+![Framework](fig/Network.pdf)
